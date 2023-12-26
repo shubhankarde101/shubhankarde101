@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **subho3433@gmail.com**
 
-- 📫 Connect me **www.linkedin.com/in/shubhankar-de**
+- 📫 Let's learn from each other **www.linkedin.com/in/shubhankar-de**
 
 <p align="left"></p>
 
