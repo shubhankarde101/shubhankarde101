@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **subho3433@gmail.com**
 
-- 📫 Let's learn from each other **www.linkedin.com/in/shubhankar-de**
-
 <p align="left"></p>
 
 <h3 align="left">Languages and Tools:</h3>
