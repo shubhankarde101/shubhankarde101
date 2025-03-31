@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Test Automation(Ex: Selenium, Cypress, Playwright)**
 
-- 📫 How to reach me **subho3433@gmail.com**
+- 📫 How to reach me **de.subho9@gmail.com**
 
 <p align="left"></p>
 
