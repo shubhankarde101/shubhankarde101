@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shubhankar De</h1>
-<h3 align="center">A passionate QA Automation engineer from India</h3>
+<h1 align="center">Hi 👋, I'm Shubham</h1>
+<h3 align="center">A passionate SDET from India</h3>
 
-- 💬 Ask me about **Test Automation(Ex: Selenium, Cypress, Playwright)**
+- 💬 Ask me about **Test Automation(Ex: Selenium, Cypress, Playwright), ETL, Jmeter, Gen AI**
 
 - 📫 How to reach me **de.subho9@gmail.com**
 
