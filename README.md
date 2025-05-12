@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubh</h1>
 <h3 align="center">A passionate SDET from India</h3>
 
-- 💬 Ask me about **Test Automation(Ex: Selenium, Cypress, Playwright), ETL, Jmeter, Gen AI)**
+- 💬 Ask me about **Test Automation(Ex: Selenium, Cypress, Playwright, ETL, Jmeter, Gen AI)**
 
 - 📫 How to reach me **de.subho9@gmail.com**
 
