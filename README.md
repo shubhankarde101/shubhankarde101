@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **de.subho9@gmail.com**
 
+- 📫 Linkedin **https://www.linkedin.com/in/shubhankar-de101/**
+
 <p align="left"></p>
 
 <h3 align="left">Languages and Tools:</h3>
